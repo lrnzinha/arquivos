@@ -1,3 +1,2 @@
-My name is Lorena Oliveira,
-If you are human? go away, bay bay
+se quiser sim, broh
 ![]https://images.app.goo.gl/P8xfe8jXdRHYtgZa8

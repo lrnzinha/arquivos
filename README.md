@@ -1,2 +1,7 @@
 se quiser sim
-![](https://images.app.goo.gl/P8xfe8jXdRHYtgZa8)
+![](https://tenor.com/kyBNyXP0eFA.gif)
+Meu nome é Marcelo Paludetto
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos

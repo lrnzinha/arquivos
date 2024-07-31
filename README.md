@@ -1,7 +1,8 @@
 se quiser sim
-![](https://tenor.com/kyBNyXP0eFA.gif)
-Meu nome é Marcelo Paludetto
+![](https://media.tenor.com/eRGU5l2v-_wAAAAi/cat-meme.gif)
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Meu nome é if you want yes
+
+- Estou estudando na skola
+- Estou me desenvolvendo na linguagem JavaScript pq vale nota
+- Utilizo esse espaço para minha organização e compartilhamento dos meus erros
